@@ -37,7 +37,7 @@ function clean($value) {
     <header>
         <div class="logo">TASKFLOW</div>
 
-        <h1>Manage Your Tasks</h1>
+        <h1>Manage Your Daily Tasks</h1>
 
         <p>Organise your work, stay productive and achieve your goals.</p>
     </header>
